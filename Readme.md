@@ -1,4 +1,4 @@
 # Example Repository
 Hello
 
-changes made to the
+changes made to the file
